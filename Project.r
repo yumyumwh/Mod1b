@@ -1,5 +1,6 @@
 library(ggplot2)
 
+#here I changed something
 
 # A <-> B
 
@@ -19,3 +20,4 @@ r_b = 1
 #consider only equilibrium state
 
 a = 1 - para_b - 1/r_a
+
